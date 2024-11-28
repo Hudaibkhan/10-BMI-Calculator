@@ -14,7 +14,6 @@ import {
 import { Label } from "@/components/ui/label";
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
-import { Ghost } from "lucide-react";
 
 // Define a TypeScript interface for the BMI result
 interface BmiResult {
